@@ -1,9 +1,9 @@
-# Steemitnopoly - Monopoly for Steem
+# Steemopoly - Monopoly for Steem
 
-Inspired in the work of ned0flanders and his [cryptocoinopoly](https://github.com/ned0flanders/Cryptocoinopoly) I have decided to create the monopoly game for Steem. The rules are the same of monopoly, with the difference that instead of renting you receive incomes for posting. Instead of "JAIL" the player needs to regenerate his voting power.
+Inspired by the work of ned0flanders and his [cryptocoinopoly](https://github.com/ned0flanders/Cryptocoinopoly) I have decided to create the monopoly game for Steem. The rules are the same of monopoly, with the difference that instead of renting you receive incomes for posting. Instead of "JAIL" the player needs to regenerate his voting power.
 
 ## Account cards
-Each colour card represents an account. I have selected a bunch of users that have some influence in the blockchain. In the original monopoly we build houses and hotels to receive more incomes, but in this game we improve our posts in order to have more followers (500, 1000, 10000, and 20000). If we have 20k followers we can choose to be witness to improve the incomes.
+Each color card represents an account. I have selected a bunch of users that have some influence in the blockchain. In the original monopoly we build houses and hotels to receive more incomes, but in this game, we improve our posts in order to have more followers (500, 1000, 10000, and 20000). If we have 20k followers we can choose to be witnesses to improve the incomes.
 
 ## Bot cards
 The bots cards are like the trains in the original monopoly, they are special accounts in the middle of each line. They represent the bots that receive incomes for promoting posts.
